@@ -1,0 +1,8 @@
+cmake-build-debug/
+cmake-build-release/
+build/
+dist/
+paddlemobile.egg-info/
+*.so
+*.obj
+*.pyc
